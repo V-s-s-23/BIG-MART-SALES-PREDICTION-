@@ -4,7 +4,9 @@
 
 Bigmart sales prediction is a regression model,using supervised machine learning techniques. In model Ramdomforest Regressor and Linear regression algorithms are used for prediction.
 
-# Dataset:- 
+# Dataset Link :- https://www.kaggle.com/datasets/brijbhushannanda1979/bigmart-sales-data
+ also dataset files given above
+ 
 
 Following table shows the variables details- 
 
